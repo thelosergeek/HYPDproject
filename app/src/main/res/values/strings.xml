@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HYPDproject</string>
+
+    <string name="hypd_credit_wallet">HYPD Credit Wallet</string>
+    <string name="manjinder_singh_brar">Manjinder Singh Brar</string>
+    <string name="mr_brar077_gmail_com">mr.brar077@gmail.com</string>
+    <string name="_1523_05">₹ 1523.05</string>
+    <string name="following">Following</string>
+    <string name="_1531">1531</string>
+    <string name="profile_details">Profile details</string>
+    <!--    <string name="\u20B9_1523_05">1523.05</string>-->
+</resources>
